@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Mental Health Companion Bot
 
 A comprehensive mental wellness application built with Streamlit that includes features for breathing exercises, journaling, mood tracking, and AI-assisted support.
@@ -84,3 +85,7 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 ## Disclaimer
 
 This application is not a substitute for professional mental health support. If you are experiencing serious mental health issues, please contact a healthcare professional.
+=======
+# Mental_Health_Bot
+Bot
+>>>>>>> 715443da6d95403040331e2d8351d3baaa0fdec5
